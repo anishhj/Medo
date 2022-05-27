@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Medo">
-        <activity android:name=".finish"></activity>
+        <activity android:name=".name"></activity>
+        <activity android:name=".finish" />
         <activity android:name=".signup" />
         <activity android:name=".upload" />
         <activity android:name=".update" />
